@@ -2,10 +2,15 @@
 
 This application allows you to interact with OpenAI's ChatGPT API and store the conversation history. You can view and export the history in different formats (CSV and TXT).
 
+![Animation.gif](Animation.gif)
+
+
 ## Features
 - Generate ChatGPT prompts
 - View conversation history
 - Export conversation history in CSV and TXT formats
+
+![img.png](img.png)
 
 ## Prerequisites
 You need to have Node.js installed on your machine.
